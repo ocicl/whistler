@@ -2,8 +2,9 @@
 
 A Lisp that compiles to eBPF.
 
-|---------+--------------------------------------------------|
-| source  | git:https://github.com/atgreen/whistler.git      |
-| commit  | bc800b2                                          |
-| systems | whistler whistler/loader                         |
-|---------+--------------------------------------------------|
+|---------+---------------------------------------------|
+| source  | git:https://github.com/atgreen/whistler.git |
+| commit  | f12d46b                                     |
+| systems | whistler whistler/loader                    |
+|---------+---------------------------------------------|
+-----------------------|
