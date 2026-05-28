@@ -4,7 +4,7 @@ A Lisp that compiles to eBPF.
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/atgreen/whistler.git |
-| commit  | e947fd8                                     |
+| commit  | cfd1cad                                     |
 | systems | whistler whistler/loader                    |
 |---------+---------------------------------------------|
 
